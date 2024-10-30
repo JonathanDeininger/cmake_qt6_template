@@ -1,3 +1,0 @@
-C:/_Code/c++qt/QtQuick-with-cmake/build/CMakeFiles/helloworld.dir
-C:/_Code/c++qt/QtQuick-with-cmake/build/CMakeFiles/edit_cache.dir
-C:/_Code/c++qt/QtQuick-with-cmake/build/CMakeFiles/rebuild_cache.dir
